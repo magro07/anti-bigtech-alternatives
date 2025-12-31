@@ -1,63 +1,82 @@
-# Find FOSS / Anti–Big Tech Alternatives (Toolbox)
+# debigtech-starter-kit
+**Description:** A practical starter kit for replacing Big Tech: migration guides, alternative directories, and FOSS app sources.
 
-If you’re looking for good alternatives to Big Tech services (especially **FOSS**, **privacy-friendly**, and/or **EU-based** options), these directories and tools are a great starting point. Think: “like the CCC DI.DAY site”, but broader.
+---
+
+## What this repo is
+A small, curated toolbox to quickly find **FOSS**, **privacy-friendly**, and/or **EU-based** alternatives to popular Big Tech services.
+
+Use it to:
+- discover replacements for apps/services you use daily
+- compare options (privacy, openness, EU-based hosting)
+- get migration guides and practical “switching recipes”
 
 ---
 
 ## 1) Migration guides (closest to CCC DI.DAY)
-### **DI.DAY – Digital Independence Day (CCC)**
-A collection of practical “switching recipes” (e.g., WhatsApp → Signal, Gmail → alternative mail providers, Chrome → Firefox, etc.).  
-Use this if you want *step-by-step* “how to move” guidance.
+### DI.DAY — Digital Independence Day
+Switching recipes and practical “move from X to Y” style guidance.  
+- Website: https://di.day/  
+- CCC background post: https://www.ccc.de/de/updates/2025/ccc-unterstutzt-den-monatlichen-digital-independence-day
 
 ---
 
 ## 2) EU-first alternatives (GDPR / Europe focus)
-### **European Alternatives**
-A large directory of **European** replacements for popular SaaS and consumer services.  
-Great if your main priority is: *“Prefer EU-based vendors/services.”*
+### European Alternatives
+A large directory of **European** alternatives to common digital products and services (cloud, SaaS, tooling, etc.).  
+- Home: https://european-alternatives.eu/  
+- “Alternatives to …” index: https://european-alternatives.eu/alternatives-to  
+- Categories: https://european-alternatives.eu/categories
 
 ---
 
 ## 3) “Alternative to X” (privacy / ethics / FOSS-oriented)
-### **switching.software**
-Very beginner-friendly: pick a Big Tech product (Google/Facebook/Microsoft/Adobe…) and it suggests privacy-respecting alternatives.
+### switching.software
+Pick a Big Tech product and get ethical, privacy-conscious alternatives.  
+- https://switching.software/
 
-### **Framasoft – De-google-ify Internet**
-A well-known “service → alternative” map, especially focused on replacing Google-like services with more independent tools.
+### Framasoft — De-google-ify Internet
+A long-running project mapping common services to more independent alternatives.  
+- https://degooglisons-internet.org/  
+- (German entry page) https://degooglisons-internet.org/de/
 
-### **Privacy Guides**
-Curated recommendations (password managers, DNS, browsers, messaging, mail, etc.) with a strong security + privacy focus, often with open-source options.
+### Privacy Guides (curated recommendations)
+Community-maintained recommendations for privacy & security tools (often open-source where it makes sense).  
+- Home: https://www.privacyguides.org/en/  
+- Tools list: https://www.privacyguides.org/en/tools/
 
 ---
 
 ## 4) Android: find FOSS apps outside the Play Store
-### **F-Droid**
-The classic app catalog for Free and Open Source Software (FOSS) on Android.
+### F-Droid (official)
+Installable catalog of Free and Open Source Android apps.  
+- https://f-droid.org/en/
 
-### **Neo Store**
-A modern, faster, more comfortable **F-Droid client** (search + updates feel much nicer).
-
----
-
-## 5) Bonus: ownership maps (“who owns what?”)
-### **Digitalcourage – “Who owns what?”**
-Helps you understand corporate structures and ownership (and often links to alternatives / self-defense resources).  
-Useful if you want to avoid “Big Tech by proxy” (services owned by Big Tech subsidiaries).
+### Neo Store (modern F-Droid client)
+A modern, feature-rich F-Droid client with better UX and faster repo syncing.  
+- GitHub: https://github.com/NeoApplications/Neo-Store  
+- F-Droid package: https://f-droid.org/en/packages/com.machiav3lli.fdroid/
 
 ---
 
-## Quick workflow (recommended)
-1. **Pick what you want to replace** (e.g., Gmail, Google Drive, WhatsApp, YouTube, Google Maps).
+## 5) Bonus: “Who owns what?” (avoid Big Tech by proxy)
+### Digitalcourage — “Wer gehört zu wem?”
+Ownership overview (GAFAM etc.) + suggestions for alternatives.  
+- https://digitalcourage.de/digitale-selbstverteidigung/wer-gehoert-zu-wem  
+- (Also accessible here) https://digitalcourage.de/google-facebook-co
+
+---
+
+## Recommended workflow
+1. **List what you want to replace** (e.g., Gmail, Google Drive, WhatsApp, YouTube, Google Maps).
 2. Check **DI.DAY** for migration steps if available.
 3. Use **switching.software** + **Privacy Guides** to compare options (privacy/security).
 4. Use **European Alternatives** if “EU-based” is a key requirement.
-5. On Android: install via **F-Droid / Neo Store** when possible.
+5. On Android: prefer **F-Droid / Neo Store** for installing FOSS apps.
 
 ---
 
-## If you want: I can make you a personal “switch plan”
-Reply with 3–5 services/apps you want to replace and your priorities:
-- **FOSS only** vs “open to non-FOSS”
-- **EU-based preferred**?
-- **Self-hosting okay**?
-- **Ease of use** vs “maximum privacy”
+## Contribute
+PRs welcome:
+- add tools/directories
+- add categories (e.g., “Mail”, “Maps”,
